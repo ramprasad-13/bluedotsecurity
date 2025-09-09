@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow:
 
-Sitemap: https://www.google.com/search?q=https://bluestarsecurityservices.in/sitemap.xml
+Sitemap: https://www.bluestarsecurityservices.in/sitemap.xml
